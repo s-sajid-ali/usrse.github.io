@@ -436,5 +436,9 @@
     "jperrsau-at-nrel": {
         "name": "jperrsau-at-nrel",
         "blog": "https://github.com/jperrsau-at-nrel"
+    },
+    "manbat": {
+        "name": "manbat",
+        "blog": "https://github.com/manbat"
     }
 }
